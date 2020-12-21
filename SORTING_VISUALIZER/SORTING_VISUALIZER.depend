@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1608518328 source:c:\users\91805\documents\sorting_visualizer\insertion.cpp
+	<graphics.h>
+	"insertion.h"
+
+1608517867 c:\users\91805\documents\sorting_visualizer\insertion.h
+
+1608518161 source:c:\users\91805\documents\sorting_visualizer\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"bubble.h"
+	"selection.h"
+	"quicksort.h"
+	"insertion.h"
+
+1608518222 c:\users\91805\documents\sorting_visualizer\bubble.h
+
+1608517896 c:\users\91805\documents\sorting_visualizer\selection.h
+
+1608517982 c:\users\91805\documents\sorting_visualizer\quicksort.h
+
+1608518354 source:c:\users\91805\documents\sorting_visualizer\quicksort.cpp
+	<graphics.h>
+	"quicksort.h"
+
+1608518338 source:c:\users\91805\documents\sorting_visualizer\selection.cpp
+	<graphics.h>
+	"selection.h"
+
+1608518417 source:c:\users\91805\documents\sorting_visualizer\bubble.cpp
+	<graphics.h>
+	"bubble.h"
+
