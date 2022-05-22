@@ -22,7 +22,7 @@ Execution time - 979.461 seconds
 ## 2) QUICK SORT:
 
 --> We select an element and find the position, also it works on partitions\
---> Has the average case time complexity of O(nlogn)\
+--> Has the average case time complexity of O(nlogn)
 
 Execution time - 979.461 seconds
 
@@ -30,7 +30,7 @@ Execution time - 979.461 seconds
 
 --> We assume first element is sorted , take out an element insert and sort and we repeat the same process\
 --> (n-1) passes , O(n^2) comparisons , O(n^2) number of swaps\
---> Intermediate results are not useful like bubble sort \
+--> Intermediate results are not useful like bubble sort 
 --> It is adaptive and stable by nature\
 
 Execution time - 979.461 seconds
@@ -39,7 +39,7 @@ Execution time - 979.461 seconds
 
 --> In k passes , we sort k smaller elements unlike bubble sort where we sort k largest elements\
 --> The sort performs minimum number of swaps\
---> It is neither adaptive nor stable - O(n^2) time complexity\
+--> It is neither adaptive nor stable - O(n^2) time complexity
 
 Execution time - 979.461 seconds
 
