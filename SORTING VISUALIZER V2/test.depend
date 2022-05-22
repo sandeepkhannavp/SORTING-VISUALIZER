@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1608736150 source:c:\users\91805\documents\test\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	"bubble.h"
+	"selection.h"
+	"quicksort.h"
+	"insertion.h"
+	"countsort.h"
+	"shell.h"
+
+1608136224 c:\users\91805\documents\test\test.h
+
+1608136343 source:c:\users\91805\documents\test\test.cpp
+	"test.h"
+	<stdio.h>
+
+1608137538 c:\users\91805\documents\test\bubble.h
+
+1608636345 source:c:\users\91805\documents\test\bubble.cpp
+	<graphics.h>
+	<windows.h>
+	"bubble.h"
+
+1608182737 c:\users\91805\documents\test\selection.h
+
+1608593544 source:c:\users\91805\documents\test\selectionsort.cpp
+	<graphics.h>
+	"selection.h"
+
+1608724725 source:c:\users\91805\documents\test\quicksort.cpp
+	<graphics.h>
+	"quicksort.h"
+
+1608184546 c:\users\91805\documents\test\quicksort.h
+
+1608573428 source:c:\users\91805\documents\test\insertion.cpp
+	<graphics.h>
+	"insertion.h"
+
+1608736067 c:\users\91805\documents\test\insertion.h
+
+1608567338 c:\users\91805\documents\test\countsort.h
+
+1608573253 source:c:\users\91805\documents\test\countsort.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"countsort.h"
+
+1608633691 source:c:\users\91805\documents\test\mergesort.cpp
+	<graphics.h>
+	"merge.h"
+
+1608634828 c:\users\91805\documents\test\merge.h
+
+1608704251 source:c:\users\91805\documents\test\shellsort.cpp
+	<graphics.h>
+	"shell.h"
+
+1608702270 c:\users\91805\documents\test\shell.h
+
+1608636345 source:c:\users\91805\documents\sorting visualizer\bubble.cpp
+	<graphics.h>
+	<windows.h>
+	"bubble.h"
+
+1608137538 c:\users\91805\documents\sorting visualizer\bubble.h
+
+1608573253 source:c:\users\91805\documents\sorting visualizer\countsort.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"countsort.h"
+
+1608567338 c:\users\91805\documents\sorting visualizer\countsort.h
+
+1608573428 source:c:\users\91805\documents\sorting visualizer\insertion.cpp
+	<graphics.h>
+	"insertion.h"
+
+1608736067 c:\users\91805\documents\sorting visualizer\insertion.h
+
+1608736150 source:c:\users\91805\documents\sorting visualizer\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	"bubble.h"
+	"selection.h"
+	"quicksort.h"
+	"insertion.h"
+	"countsort.h"
+	"shell.h"
+
+1608182737 c:\users\91805\documents\sorting visualizer\selection.h
+
+1608184546 c:\users\91805\documents\sorting visualizer\quicksort.h
+
+1608702270 c:\users\91805\documents\sorting visualizer\shell.h
+
+1608724725 source:c:\users\91805\documents\sorting visualizer\quicksort.cpp
+	<graphics.h>
+	"quicksort.h"
+
+1608593544 source:c:\users\91805\documents\sorting visualizer\selectionsort.cpp
+	<graphics.h>
+	"selection.h"
+
+1608704251 source:c:\users\91805\documents\sorting visualizer\shellsort.cpp
+	<graphics.h>
+	"shell.h"
+
+1608636345 source:c:\users\91805\music\packages\c programming\sorting visualizer\bubble.cpp
+	<graphics.h>
+	<windows.h>
+	"bubble.h"
+
+1608137538 c:\users\91805\music\packages\c programming\sorting visualizer\bubble.h
+
+1608573253 source:c:\users\91805\music\packages\c programming\sorting visualizer\countsort.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"countsort.h"
+
+1608567338 c:\users\91805\music\packages\c programming\sorting visualizer\countsort.h
+
+1608573428 source:c:\users\91805\music\packages\c programming\sorting visualizer\insertion.cpp
+	<graphics.h>
+	"insertion.h"
+
+1608736067 c:\users\91805\music\packages\c programming\sorting visualizer\insertion.h
+
+1608736150 source:c:\users\91805\music\packages\c programming\sorting visualizer\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	"bubble.h"
+	"selection.h"
+	"quicksort.h"
+	"insertion.h"
+	"countsort.h"
+	"shell.h"
+
+1608182737 c:\users\91805\music\packages\c programming\sorting visualizer\selection.h
+
+1608184546 c:\users\91805\music\packages\c programming\sorting visualizer\quicksort.h
+
+1608702270 c:\users\91805\music\packages\c programming\sorting visualizer\shell.h
+
+1608724725 source:c:\users\91805\music\packages\c programming\sorting visualizer\quicksort.cpp
+	<graphics.h>
+	"quicksort.h"
+
+1608593544 source:c:\users\91805\music\packages\c programming\sorting visualizer\selectionsort.cpp
+	<graphics.h>
+	"selection.h"
+
+1608704251 source:c:\users\91805\music\packages\c programming\sorting visualizer\shellsort.cpp
+	<graphics.h>
+	"shell.h"
+
