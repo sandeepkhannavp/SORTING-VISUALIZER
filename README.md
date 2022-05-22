@@ -17,14 +17,14 @@ INITIAL ARRAY
 --> For n elements , if you perform K passes , K elements are sorted down - K largest elements - lighter elements move up, heavier moves down\
 --> We perform n-1 passes
 
-Execution time - 979.461 seconds\
+Execution time - 979.461 seconds
 
 ## 2) QUICK SORT:
 
 --> We select an element and find the position, also it works on partitions\
 --> Has the average case time complexity of O(nlogn)\
 
-Execution time - 979.461 seconds\
+Execution time - 979.461 seconds
 
 ## 3) INSERTION SORT:
 
@@ -33,7 +33,7 @@ Execution time - 979.461 seconds\
 --> Intermediate results are not useful like bubble sort \
 --> It is adaptive and stable by nature\
 
-Execution time - 979.461 seconds\
+Execution time - 979.461 seconds
 
 ## 4) SELECTION SORT
 
@@ -41,6 +41,6 @@ Execution time - 979.461 seconds\
 --> The sort performs minimum number of swaps\
 --> It is neither adaptive nor stable - O(n^2) time complexity\
 
-Execution time - 979.461 seconds\
+Execution time - 979.461 seconds
 
 
